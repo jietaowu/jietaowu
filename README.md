@@ -8,7 +8,7 @@
 
 <br />
 
-Hi, I'm Jietao Wu (Jack Wu), a independent ios developer from the United States. My passion is developing software. 
+Hi, I'm Jietao Wu (Jack Wu), an independent ios developer from the United States. My passion is developing software. 
 
 
 
