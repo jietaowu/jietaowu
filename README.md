@@ -8,7 +8,7 @@
 
 <br />
 
-Hi, I'm Jietao Wu (Jack Wu), I am an independent ios developer from China but I am currentlly living in the United States. My passion is developing softwares. 
+Hi, I'm Jietao Wu (Jack Wu), I am an independent ios developer from China. I am currentlly living in the United States. My passion is developing softwares. 
 
 
 
