@@ -2,7 +2,7 @@
 
 
 <a href="https://twitter.com/JackWu199609">
-  <img align="left" alt="Jack Wu | Twitter" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALogo_of_Twitter.svg&psig=AOvVaw1LswVS05yYPg9YUkSvGUWh&ust=1765146076666000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODb2dj_qZEDFQAAAAAdAAAAABAE" />
+  <img align="left" alt="Jack Wu | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
 
 
